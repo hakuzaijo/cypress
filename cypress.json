@@ -1,0 +1,6 @@
+{
+  "screenshotsFolder": "cypress/snapshots/actual",
+  "trashAssetsBeforeRuns": true,
+  "projectId": "x64oop",
+  "baseUrl": "https://fitmech.com"
+}

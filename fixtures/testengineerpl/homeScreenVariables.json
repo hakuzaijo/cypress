@@ -1,0 +1,5 @@
+{
+    "artykulyImage": "#media_image-3 > a > .image",
+    "recenzjeImage": "#media_image-4 > a > .image",
+    "newsyImage": "#media_image-5 > a > .image"
+}
